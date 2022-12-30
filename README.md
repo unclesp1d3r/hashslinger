@@ -1,9 +1,9 @@
 # Hash Slinger
 
-![GitHub](https://img.shields.io/github/license/unclesp1d3r/hash-slinger)
-![GitHub issues](https://img.shields.io/github/issues/unclesp1d3r/hash-slinger)
-![GitHub Repo stars](https://img.shields.io/github/stars/unclesp1d3r/hash-slinger?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/unclesp1d3r/hash-slinger)
+![GitHub](https://img.shields.io/github/license/unclesp1d3r/hashslinger)
+![GitHub issues](https://img.shields.io/github/issues/unclesp1d3r/hashslinger)
+![GitHub Repo stars](https://img.shields.io/github/stars/unclesp1d3r/hashslinger?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/unclesp1d3r/hashslinger)
 ![Maintenance](https://img.shields.io/maintenance/yes/2022)
 
 A hashcat wrapper for distributed cracking, with scalability in mind.

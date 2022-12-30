@@ -1,4 +1,4 @@
-# Code of Conduct - hash-slinger
+# Code of Conduct - hashslinger
 
 ## Our Pledge
 
